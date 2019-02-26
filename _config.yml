@@ -21,7 +21,7 @@ aux_links:
 
 # Color scheme currently only supports "dark" or nil (default)
 remote_theme: pmarsceill/just-the-docs
-color_scheme: nil
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
