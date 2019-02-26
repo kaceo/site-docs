@@ -27,10 +27,10 @@ color_scheme: dark
 # e.g, UA-1234567-89
 #ga_tracking: UA-2709176-10
 
-baseurl: "/site-docs/" # the subpath of your site, e.g. /blog
-url: "https://kaceo.github.io"
-port: 8080
-host: 0.0.0.0
+#baseurl: "/site-docs/" # the subpath of your site, e.g. /blog
+#url: "https://kaceo.github.io"
+#port: 8080
+#host: 0.0.0.0
 source: src
 #destination: docs
 
