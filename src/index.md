@@ -60,7 +60,7 @@ $ bundle exec jekyll serve
 
 ### Configure Just the Docs
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+- [See configuration options]({{ site.baseurl }}{% link pages/configuration.md %})
 
 ---
 

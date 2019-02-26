@@ -13,6 +13,8 @@
 
 ## Installation
 
+Based on https://jekyllthemes.io/theme/just-the-docs
+
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby

@@ -59,13 +59,13 @@ nav_exclude: true
 
 ## Pages with children
 
-Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./docs` directory and each of the sections in subdirectories like `./docs/ui-components` and `./docs/utilities`. This gives us an organization like:
+Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together... For example, in these docs, we keep all of the written documentation in the `./pages` directory and each of the sections in subdirectories like `./pages/ui-components` and `./pages/utilities`. This gives us an organization like:
 
 ```
 +-- ..
 |-- (Jekyll files)
 |
-|-- docs
+|-- pages
 |   |-- ui-components
 |   |   |-- ui-components.md  (parent page)
 |   |   |-- buttons.md
@@ -195,7 +195,7 @@ This would create the following navigation structure:
 
 ## Auxiliary Navigation
 
-To add a auxiliary navigation item to your site (in the upper right on all pages), add it to the `aux_nav` [configuration option]({{ site.baseurl }}{% link docs/configuration.md %}#aux-nav) in your site's `_config.yml` file.
+To add a auxiliary navigation item to your site (in the upper right on all pages), add it to the `aux_nav` [configuration option]({{ site.baseurl }}{% link pages/configuration.md %}#aux-nav) in your site's `_config.yml` file.
 
 #### Example
 {: .no_toc }
